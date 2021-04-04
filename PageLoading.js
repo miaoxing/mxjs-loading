@@ -1,6 +1,6 @@
 import React from 'react';
 import Loading from './Loading';
-import {Box} from 'rebass';
+import {Box} from '@mxjs/box';
 
 export default () => {
   return <Box textAlign="center" my={5}>
