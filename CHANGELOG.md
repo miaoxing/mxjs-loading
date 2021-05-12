@@ -1,3 +1,15 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-loading/compare/v0.1.1...v0.1.2) (2021-05-12)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/bootstrap:** upgrade from `0.1.4` to `0.1.5`
+* **@mxjs/box:** upgrade from `0.2.1` to `0.2.2`
+* **@miaoxing/dev:** upgrade from `7.0.0` to `7.0.1`
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-loading/compare/v0.1.0...v0.1.1) (2021-05-11)
 
 
