@@ -1,3 +1,25 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-loading/compare/v0.1.2...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([7192dec](https://github.com/miaoxing/mxjs-loading/commit/7192dec1af943634a71c4c9d7fac06c063d2f961))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/bootstrap:** upgrade from `0.1.5` to `0.1.6`
+* **@mxjs/box:** upgrade from `0.2.2` to `0.2.3`
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.2](https://github.com/miaoxing/mxjs-loading/compare/v0.1.1...v0.1.2) (2021-05-12)
 
 
