@@ -11,7 +11,6 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@mxjs/bootstrap": "^0.1.6",
     "@mxjs/box": "^0.2.3"
   },
   "devDependencies": {

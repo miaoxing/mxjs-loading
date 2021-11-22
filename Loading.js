@@ -1,4 +1,6 @@
-import {Spinner} from '@mxjs/bootstrap';
+import {LoadingOutlined} from '@ant-design/icons';
+import {Box} from '@fower/react';
 
-// NOTE: antd spin 会传入 className=ant-spin-dot，以便居中显示
-export default (props) => <Spinner animation="grow" variant="primary" {...props}/>;
+export default (props) => <Box text-24 brand {...props}>
+  <LoadingOutlined spin/>
+</Box>;
