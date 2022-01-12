@@ -1,3 +1,24 @@
+# [0.3.0](https://github.com/miaoxing/mxjs-loading/compare/v0.2.0...v0.3.0) (2022-01-12)
+
+
+### Features
+
+* **loading:** 加载图标改为 antd，移除 bootstrap 依赖 ([1ecd4ad](https://github.com/miaoxing/mxjs-loading/commit/1ecd4ad8db15b76fa4a95e34ffbf90fbc7f165ff))
+
+
+### BREAKING CHANGES
+
+* **loading:** 加载图标改为 antd，移除 bootstrap 依赖
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.2.3` to `0.3.0`
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 # [0.2.0](https://github.com/miaoxing/mxjs-loading/compare/v0.1.2...v0.2.0) (2021-10-28)
 
 
