@@ -7,4 +7,3 @@ describe('loading', () => {
     expect(result.container).toMatchSnapshot();
   });
 });
-
