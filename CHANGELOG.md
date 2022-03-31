@@ -1,3 +1,18 @@
+## [0.3.3](https://github.com/miaoxing/mxjs-loading/compare/v0.3.2...v0.3.3) (2022-03-31)
+
+
+### Bug Fixes
+
+* **loading:** 解决 fower 1.68+ 不识别 `brand` 颜色 ([8d43d01](https://github.com/miaoxing/mxjs-loading/commit/8d43d013cbba29d748e55124038130d831aafb35))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.3.1` to `0.3.2`
+
 ## [0.3.2](https://github.com/miaoxing/mxjs-loading/compare/v0.3.1...v0.3.2) (2022-02-05)
 
 

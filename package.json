@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/loading",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -11,7 +11,7 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@mxjs/box": "^0.3.1",
+    "@mxjs/box": "^0.3.2",
     "@ant-design/icons": "^4.6.2"
   },
   "devDependencies": {
