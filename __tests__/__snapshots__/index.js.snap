@@ -3,7 +3,7 @@
 exports[`loading Loading 1`] = `
 <div>
   <div
-    class="text-24 brand"
+    class="text-24 brand500"
   >
     <span
       aria-label="loading"
