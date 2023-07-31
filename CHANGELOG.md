@@ -1,3 +1,14 @@
+## [0.3.9](https://github.com/miaoxing/mxjs-loading/compare/v0.3.8...v0.3.9) (2023-07-31)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.3.7` to `0.3.8`
+* **@miaoxing/dev:** upgrade from `8.2.1` to `8.2.2`
+
 ## [0.3.8](https://github.com/miaoxing/mxjs-loading/compare/v0.3.7...v0.3.8) (2023-05-31)
 
 
