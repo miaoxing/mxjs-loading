@@ -4,7 +4,7 @@ import {Box} from '@mxjs/box';
 const PageLoading = () => {
   return <Box textCenter my5>
     <Loading/>
-    <div>努力加载中...</div>
+    <Box mt4>努力加载中...</Box>
   </Box>;
 };
 
