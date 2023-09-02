@@ -1,3 +1,19 @@
+## [0.3.10](https://github.com/miaoxing/mxjs-loading/compare/v0.3.9...v0.3.10) (2023-09-02)
+
+
+### Features
+
+* **loading:** `PageLoading` 图标和文字增加间距 ([1e7423d](https://github.com/miaoxing/mxjs-loading/commit/1e7423d7208fc239706663bae221deabd10a440e))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.3.8` to `0.3.9`
+* **@miaoxing/dev:** upgrade from `8.2.2` to `8.2.3`
+
 ## [0.3.9](https://github.com/miaoxing/mxjs-loading/compare/v0.3.8...v0.3.9) (2023-07-31)
 
 
