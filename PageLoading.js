@@ -1,10 +1,10 @@
 import Loading from './Loading';
-import {Box} from '@mxjs/box';
+import {Box} from '@mxjs/a-box';
 
 const PageLoading = () => {
-  return <Box textCenter my5>
+  return <Box textAlign="center" my={5}>
     <Loading/>
-    <Box mt4>努力加载中...</Box>
+    <Box mt={4}>努力加载中...</Box>
   </Box>;
 };
 

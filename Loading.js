@@ -1,7 +1,7 @@
-import {LoadingOutlined} from '@ant-design/icons';
-import {Box} from '@mxjs/box';
+import { LoadingOutlined } from '@ant-design/icons';
+import { Box } from '@mxjs/a-box';
 
-const Loading = (props) => <Box text-24 brand500 {...props}>
+const Loading = (props) => <Box fontSize="2xl" color="primary" {...props}>
   <LoadingOutlined spin/>
 </Box>;
 
