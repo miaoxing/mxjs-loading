@@ -1,3 +1,24 @@
+# [0.4.0](https://github.com/miaoxing/mxjs-loading/compare/v0.3.13...v0.4.0) (2024-01-31)
+
+
+### Features
+
+* **loading:** 更新 box 组件为 chakra-ui ([66515e6](https://github.com/miaoxing/mxjs-loading/commit/66515e6ccd06d0797b0b12225f894426566e8536))
+* 更新 `react` 支持 18 ([cf23163](https://github.com/miaoxing/mxjs-loading/commit/cf23163ab4028323b4a5884f75ccf9930cdaa7be))
+
+
+### BREAKING CHANGES
+
+* **loading:** 更新 box 组件为 chakra-ui
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.3.12` to `0.3.13`
+
 ## [0.3.13](https://github.com/miaoxing/mxjs-loading/compare/v0.3.12...v0.3.13) (2024-01-08)
 
 
