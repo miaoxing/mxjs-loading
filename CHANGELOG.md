@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/miaoxing/mxjs-loading/compare/v0.4.0...v0.4.1) (2024-02-20)
+
+
+### Bug Fixes
+
+* **loading:** 增加 `@mxjs/a-box` 依赖 ([f42cd96](https://github.com/miaoxing/mxjs-loading/commit/f42cd96fca273835b5780e07d0a713f37b53dee7))
+
 # [0.4.0](https://github.com/miaoxing/mxjs-loading/compare/v0.3.13...v0.4.0) (2024-01-31)
 
 
