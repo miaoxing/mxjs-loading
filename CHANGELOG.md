@@ -1,3 +1,14 @@
+## [0.4.2](https://github.com/miaoxing/mxjs-loading/compare/v0.4.1...v0.4.2) (2024-03-31)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-box:** upgrade from `1.1.0` to `1.1.1`
+* **@miaoxing/dev:** upgrade from `9.1.0` to `9.1.1`
+
 ## [0.4.1](https://github.com/miaoxing/mxjs-loading/compare/v0.4.0...v0.4.1) (2024-02-20)
 
 
